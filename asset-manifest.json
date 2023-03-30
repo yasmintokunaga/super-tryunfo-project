@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/super-tryunfo-project/static/css/main.f234376a.css",
+    "main.js": "/super-tryunfo-project/static/js/main.a315aa80.js",
+    "static/js/787.ec704a7a.chunk.js": "/super-tryunfo-project/static/js/787.ec704a7a.chunk.js",
+    "index.html": "/super-tryunfo-project/index.html",
+    "main.f234376a.css.map": "/super-tryunfo-project/static/css/main.f234376a.css.map",
+    "main.a315aa80.js.map": "/super-tryunfo-project/static/js/main.a315aa80.js.map",
+    "787.ec704a7a.chunk.js.map": "/super-tryunfo-project/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f234376a.css",
+    "static/js/main.a315aa80.js"
+  ]
+}
