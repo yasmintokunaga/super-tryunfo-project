@@ -1,0 +1,39 @@
+:root {
+  --my-cool-border: rgb(52, 149, 148);
+  --my-cool-background: rgb(163, 149, 148);
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  line-height: 35px;
+  width: 400px;
+}
+
+.input-text {
+  max-width: 100%;
+  border-left: none;
+  border-top: none;
+  border-right: none;
+  border-bottom: 1px solid var(--my-cool-border);
+}
+
+.attr input {
+  width: 30px;
+  margin-left: 5px;
+  margin-right: 30px;
+}
+.space-right {
+  margin-right: 5px;
+}
+
+.button-save {
+  background-color: var(--my-cool-border);
+  width: 30%;
+  color: white;
+  height: 30px;
+  border-radius: 5px;
+  font-weight: 700;
+  margin-top: 15px;
+  /* margin-left: 30%; */
+}

@@ -1,0 +1,36 @@
+:root {
+  --my-cool-border-cart: rgb(52, 89, 149);
+  --my-cool-background-cart: rgb(211, 248, 226);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.previewcard {
+  background-color: var(--my-cool-background-cart);
+  width: 250px;
+  height: 330px;
+  margin: 5px;
+  padding: 10px;
+  border-left: 5px solid var(--my-cool-border-cart);
+  border-top: 5px solid var(--my-cool-border-cart);
+  border-right: 15px solid var(--my-cool-border-cart);
+  border-bottom: 15px solid var(--my-cool-border-cart);
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+img {
+  width: 100%;
+  max-height: 150px;
+}
+
+.attr-card {
+  display: flex;
+  justify-content: space-between;  
+}
